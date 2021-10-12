@@ -1,4 +1,6 @@
 Foi preciso usar o protocolo SSH para clonar o repositório.
-
+Pois ao clonar o repositório por meio do protocolo HTTPS tive
+um problema ao fazer o push dos arquivos para o repositorio no GitHub.
+ 
 Ao clonar e commitar é preciso usar a senha da chave se usar o
 protocolo SSH.
