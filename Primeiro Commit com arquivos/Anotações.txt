@@ -1,1 +1,5 @@
 Foi preciso usar o protocolo SSH para clonar o repositório.
+
+Ao clonar e commitar é preciso usar a senha da chave se usar o
+protocolo SSH, pois autenticação por usuário e senha não
+funciona mais.
