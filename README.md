@@ -1,1 +1,1 @@
-# 1°  repositorio da Dio, desafio *Git / Github*. 👨‍🎓💻
+# 1°  repositório da Dio, desafio *Git / Github*. 👨‍🎓💻
